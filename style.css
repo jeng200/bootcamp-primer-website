@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(153, 156, 156);
+  margin: 0;
+}
+
+.ctr-GA {
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+.font-tf {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.float-left {
+  float: left;
+  margin: 5px 15px;
+  padding: 5px;
+}
+
+.cia {
+  margin: 15px;
+} 
