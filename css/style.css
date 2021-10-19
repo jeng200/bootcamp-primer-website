@@ -1,0 +1,79 @@
+body {
+  background-color: rgb(153, 156, 156);
+  margin: 0;
+}
+
+.ctr-GA {
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+p {
+  color: black;
+}
+
+.font-tf {
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.float-left {
+  float: left;
+  margin: 5px 15px;
+  padding: 5px;
+}
+
+.cia {
+  margin: 15px;
+} 
+
+/* CSS Wars Page */
+
+.dark {
+  background-color: #111111;
+}
+
+.yellow {
+  color: #E2E80F;
+  text-align: center;
+  font-size: 35px;
+}
+
+.white {
+  color: #eeeeee;
+  margin: 30px 65px;
+  font-size: 25px;
+}
+
+.credits {
+  text-decoration: underline;
+  color: blue;
+}
+
+.credits:hover {
+  cursor: pointer;
+}
+
+#film-description {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.mvcenter {
+  margin: 30px 65px;
+}
