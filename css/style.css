@@ -76,7 +76,8 @@ a:hover {
 }
 
 .mvcenter {
-  margin: 30px 65px;
+  text-align: center;
+  
 }
 
 /* Newsies page */
@@ -113,3 +114,57 @@ a:hover {
 h3 {
   text-align: center;
 }
+
+/* Color Grid page */
+
+.grid-background {
+  background-color: white;
+  text-align: center;
+}
+.color-grid {
+  text-align: center;
+  margin: 2% 5%;
+  box-sizing: border-box;
+  font-size: 0px;
+}
+
+.pink {
+  border: white 10px solid;
+  background-color: pink;
+  width: 91%;
+  height: 200px;
+  margin: 0 82px;
+}
+
+.hot-pink {
+  border: white 10px solid;
+  background-color: hotpink;
+  display: inline-block;
+  width: 22%;
+  height: 200px;  
+}
+
+.blue {
+  border: white 10px solid;
+  background-color: rgb(91, 174, 202);
+  display: inline-block;
+  width: 45%;
+  height: 200px;
+}
+
+.orange {
+  border: white 10px solid;
+  background-color: orange;
+  display: inline-block;
+  width: 30%;
+  height: 200px;
+}
+
+.green {
+  border: white 10px solid;
+  background-color: green;
+  display: inline-block;
+  width: 60%;
+  height: 200px;
+}
+
